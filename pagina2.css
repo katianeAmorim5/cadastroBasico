@@ -1,0 +1,22 @@
+body {
+  background-color: #ccc;
+  color: #000;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-control {
+  border: 1px solid #ccc;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.btn {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #ccc;
+  padding: 8px;
+  font-size: 16px;
+}
